@@ -1,0 +1,24 @@
+{
+  "name": "iso-languages",
+  "version": "0.0.1",
+  "description": "List of language codes according to ISO 639 standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/see-king/iso-language-codes.git"
+  },
+  "keywords": [
+    "language",
+    "code",
+    "iso-639"
+  ],
+  "author": "see-king",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/see-king/iso-language-codes/issues"
+  },
+  "homepage": "https://github.com/see-king/iso-language-codes#readme"
+}
